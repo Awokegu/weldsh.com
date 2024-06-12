@@ -3,7 +3,7 @@ date: '2024-04-01'
 title: 'Full Stack Developer'
 company: 'Tewos Tech'
 location: 'Northeastern University'
-range: 'Spring 2022 - Present'
+range: 'April 2023 - Present'
 url: 'https://web.northeastern.edu/scout/'
 ---
 - Use my extensive development experience to define the structure and components for the project, making sure they are reusable

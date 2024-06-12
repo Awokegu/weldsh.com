@@ -1,12 +1,15 @@
 ---
-date: '2015-12-21'
+date: '2019-12-21'
 title: 'Data Encoder'
 company: 'Public Service Security Agency'
 location: 'Boston, MA'
-range: 'July - December 2015'
+range: 'December 2019 - October 2020'
 url: 'https://us.mullenlowe.com/'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Accurately entered data into databases and computer systems
+- Verified accuracy of data entry and audit records
+- Processed and analyzed data to identify trends and patterns
+- Resolved errors in data entry process
+- Maintained and updated database records
+- Monitored data entry performance to ensure accuracy
