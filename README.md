@@ -19,7 +19,7 @@
   </a>
 </p>
 
-![demo](https://github.com/weldsh2535/weldsh.com/master/src/images/demo.png)
+![demo](https://github.com/weldsh2535/weldsh.com/blob/master/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
