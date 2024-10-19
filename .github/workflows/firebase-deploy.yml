@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: '14'  # Specify the Node.js version you need
       - name: Build Project
-        run: npm install && npm run build  # Adjust according to your build script
+        run: npm install --force && npm run build  # Adjust according to your build script
 
       - name: Install Firebase Tools
         run: npm install -g firebase-tools
