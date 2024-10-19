@@ -2,9 +2,9 @@
 date: '2021-05-14'
 title: 'Full Stack Developer'
 company: 'MTK Technology'
-location: 'Boston, MA'
+location: 'Addis Abeba, Ethiopia'
 range: 'October 2020 - March 2022'
-url: 'https://www.upstatement.com/'
+url: ''
 ---
 
 - Designed, developed SOA Web Services using Windows Services, WCF, ASMX Services with VB.NET and Hosted on IIS.

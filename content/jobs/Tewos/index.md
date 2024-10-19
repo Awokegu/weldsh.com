@@ -2,9 +2,9 @@
 date: '2024-04-01'
 title: 'Full Stack Developer'
 company: 'Tewos Tech'
-location: 'Northeastern University'
+location: 'Addis Ababa, Ethiopia'
 range: 'April 2023 - Present'
-url: 'https://web.northeastern.edu/scout/'
+url: 'http://tewostech.com/'
 ---
 - Use my extensive development experience to define the structure and components for the project, making sure they are reusable
 - Keep the code quality high by reviewing code from other developers and suggesting improvements

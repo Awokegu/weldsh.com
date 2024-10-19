@@ -2,9 +2,9 @@
 date: '2019-12-21'
 title: 'Data Encoder'
 company: 'Public Service Security Agency'
-location: 'Boston, MA'
+location: 'Addiss Abeba, ET'
 range: 'December 2019 - October 2020'
-url: 'https://us.mullenlowe.com/'
+url: 'https://psssa.gov.et/'
 ---
 
 - Accurately entered data into databases and computer systems
