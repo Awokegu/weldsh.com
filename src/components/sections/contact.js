@@ -54,6 +54,7 @@ const Contact = () => {
   }, []);
 
   return (
+    <section id="contact">
     <StyledContactSection id="contact" ref={revealContainer}>
       <h2 className="numbered-heading overline">What’s Next?</h2>
 
@@ -65,9 +66,10 @@ const Contact = () => {
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
-        Say Hello
+        Get In Touch
       </a>
     </StyledContactSection>
+    </section>
   );
 };
 

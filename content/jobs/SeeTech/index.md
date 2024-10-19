@@ -4,7 +4,7 @@ title: 'Quality Assurance'
 company: 'SeeTech LTD'
 location: 'Addis Ababa , Et'
 range: 'March 2022 - April 2023'
-url: 'https://www.apple.com/music/'
+url: 'https://us.mullenlowe.com/'
 ---
 
 - Excellent knowledge and working experience with test planning, test case and test script creation, test execution and test defect reporting.

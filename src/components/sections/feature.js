@@ -346,7 +346,7 @@ const Featured = () => {
   }, []);
 
   return (
-    <section id="projects">
+    <section id="feature">
       <h2 className="numbered-heading" ref={revealTitle}>
         Some Things I’ve Built
       </h2>
@@ -362,7 +362,7 @@ const Featured = () => {
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <div className="project-content">
                   <div>
-                    <p className="project-overline">Featured Project</p>
+                    {/* <p className="project-overline">Featured Project </p> */}
 
                     <h3 className="project-title">
                       <a href={external}>{title}</a>
@@ -387,7 +387,7 @@ const Featured = () => {
                           Learn More
                         </a>
                       )}
-                      {github && (
+                      {/* {github && (
                         <a href={github} aria-label="GitHub Link">
                           <Icon name="GitHub" />
                         </a>
@@ -396,7 +396,7 @@ const Featured = () => {
                         <a href={external} aria-label="External Link" className="external">
                           <Icon name="External" />
                         </a>
-                      )}
+                      )} */}
                     </div>
                   </div>
                 </div>
