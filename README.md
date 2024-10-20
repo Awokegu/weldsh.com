@@ -7,11 +7,11 @@
 <p align="center">
   The fourth iteration of <a href="https://weldsh.web.app" target="_blank">https://weldsh.web.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
-<p align="center">
+<!-- <p align="center">
   Previous iterations:
   <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
   <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
-  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
+  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a> -->
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
