@@ -1,7 +1,6 @@
 {
   "hosting": {
     "public": "public",
-    "target": "weldsh",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "headers": [
       {
