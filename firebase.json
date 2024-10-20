@@ -1,7 +1,7 @@
 {
   "hosting": {
     "public": "public",
-    "target": "https://weldsh.web.app",
+    "target": "weldsh",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "headers": [
       {
